@@ -1,0 +1,28 @@
+{
+  "name": "orkg-frontend",
+  "version": "1.0.0",
+  "description": "This is the repository for the frontend of the Open Research Knowledge Grapph (ORKG), which is running live at: https://orkg.org. Detailed user documentation can be found in the Wiki at: https://gitlab.com/TIBHannover/orkg/orkg-frontend/-/wikis/home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/TIBHannover/orkg/orkg-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/TIBHannover/orkg/orkg-frontend/issues"
+  },
+  "homepage": "https://gitlab.com/TIBHannover/orkg/orkg-frontend#readme",
+  "dependencies": {
+    "capitalize": "^2.0.4",
+    "cross-fetch": "^4.0.0",
+    "csv-writer": "^1.6.0",
+    "lodash": "^4.17.21",
+    "papaparse": "^5.4.1",
+    "qs": "^6.11.2"
+  },
+  "keywords": []
+}
