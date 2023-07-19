@@ -45,16 +45,18 @@ The [baseline annotator](sourceCode/baselineAnno) is a simple system that uses t
 	year={2023}
 }
 
-@dataset{SemTabTable-PapersDataset,
-	title={SemTabTable-Papers benchmark},
-	author={Azanzi, Jiomekong and Allard, Oelen and Sanju, Tiwari and Gaoussou, Camara and Söeren, Auer},
-	booktitle={SemTab@ISWC, submitted},
-  month = {July},
-	year={2023},
+@dataset{AJiomekongSemTabTablePapers2023,
+  author       = {Azanzi Jiomekong and
+                  Allard Oelen and
+                  Sanju Tiwari and
+                  Gaoussou Camara and
+                  Söeren Auer},
+  title        = {SemTabTable-Papers dataset},
+  month        = jul,
+  year         = 2023,
   publisher    = {Zenodo},
-  version      = {v0.1\_2023},
-  doi          = {=},
-  url          = {}
+  version      = {1.0},
+  doi          = {10.5281/zenodo.8165417}
 }
 
 ```
